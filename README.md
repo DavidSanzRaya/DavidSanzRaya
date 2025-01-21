@@ -10,7 +10,7 @@ const developerProfile = {
   name: "David Sanz Raya",
   title: "Full-Stack Developer",
   location: "🌍 Based in Spain",
-  skills: ["C#.NET", "SQL", "Git", "JavaScript"],
+  skills: ["C#.NET", "Java", "SQL", "Git", "JavaScript"],
   languages: ["Spanish (native)", "Catalan (native)", "English (fluent)"]
 };
 
